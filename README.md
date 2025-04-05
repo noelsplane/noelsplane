@@ -19,14 +19,8 @@
 
 - Building full-stack projects with real-world use cases (check out Hangman v2.0 🎮)
 - Exploring the intersection of AI and productivity
-- Gaining hands-on experience through internships and cloud cohorts
+- Gaining hands-on experience through internships and other learning opportunities 
 - Growing into a technical leader who bridges business and engineering
-
----
-
-## 🚀 I Believe
-
-> "The difference between those who thrive and those who survive in tech will come down to who knows how to **leverage AI effectively**."
 
 ---
 
