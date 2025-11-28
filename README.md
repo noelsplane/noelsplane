@@ -1,7 +1,6 @@
 # 👋🏽 Hi, I’m Jayden (Noel) Brown
 
-🎓 I'm a Rising Junior Computer Science major at Morehouse College  
-🔐 Incoming Cybersecurity Intern | ☁️ Google Cloud Career Jumpstart Cohort  
+🎓 I'm a Junior Computer Science major at Morehouse College  
 💡 Passionate about AI/ML, cloud, and building tech that empowers people  
 
 ---
