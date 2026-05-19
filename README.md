@@ -1,7 +1,7 @@
 # 👋🏽 Hi, I’m Jayden (Noel) Brown
 
 🎓 I'm a Junior Computer Science major at Morehouse College  
-🌱 I'm a Software Engineer Intern At Cargill 
+🌱 I'm a Software Engineer Intern At Cargill    
 💡 Passionate about AI/ML, cloud, and building tech that empowers people  
 
 ---
